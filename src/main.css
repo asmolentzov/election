@@ -8,9 +8,26 @@
   font-size: 160%;
 }
 
+.intro-image-and-text {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.images {
+  width: 100%;
+}
+
+.text-centered-on-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 body .top-section {
   padding-top: 100px;
-  background-color: #efeff0;
+  background-color: #e0e0e0;
   color: #2a2b2b;
   margin-bottom: 500px;
 }

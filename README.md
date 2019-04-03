@@ -15,3 +15,11 @@ Connect Metamask.
 
 Run the server:
 npm run dev
+
+Remix - debugging tool
+https://remix.ethereum.org
+
+
+Tutorials:
+Out of date->
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
